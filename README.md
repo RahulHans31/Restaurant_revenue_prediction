@@ -1,6 +1,4 @@
-Certainly! Here's the updated `README.md` file:
 
-```markdown
 # Restaurant Revenue Prediction Dashboard
 
 This repository contains a Streamlit application for predicting restaurant revenue based on various input features. The model used for prediction is pre-trained and saved as `Model.pkl`, with additional encoders and scalers saved as `encoders.pkl` and `scaler.pkl` respectively.
@@ -75,6 +73,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License.
-```
 
-This `README.md` provides a clear structure and instructions for installing, running, and using your Streamlit application for restaurant revenue prediction.
