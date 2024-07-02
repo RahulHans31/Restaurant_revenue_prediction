@@ -1,6 +1,9 @@
 
 # Restaurant Revenue Prediction Dashboard
 
+![image](https://github.com/RahulHans31/Restaurant_revenue_prediction/assets/94359468/3ea2631d-d393-4bae-8b31-977eb5a74f8c)
+
+
 This repository contains a Streamlit application for predicting restaurant revenue based on various input features. The model used for prediction is pre-trained and saved as `Model.pkl`, with additional encoders and scalers saved as `encoders.pkl` and `scaler.pkl` respectively.
 
 ## Features
